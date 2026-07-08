@@ -42,7 +42,6 @@ I enjoy solving Rubik's Cubes, playing Chess, and exploring new technologies thr
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=khildasa&theme=transparent&hide_border=true&ring=B31E32&fire=B31E32&currStreakLabel=B31E32&currStreakNum=B31E32&sideLabels=B31E32&sideNums=B31E32&dates=888888)
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khildasa&theme=github_dark)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khildasa/khildasa/output/github-contribution-grid-snake-dark.svg">
